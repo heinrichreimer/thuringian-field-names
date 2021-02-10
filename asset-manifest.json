@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/thuringian-field-names/static/css/main.33d5e7ea.chunk.css",
-    "main.js": "/thuringian-field-names/static/js/main.fa1a20fc.chunk.js",
-    "main.js.map": "/thuringian-field-names/static/js/main.fa1a20fc.chunk.js.map",
-    "runtime-main.js": "/thuringian-field-names/static/js/runtime-main.67f4421f.js",
-    "runtime-main.js.map": "/thuringian-field-names/static/js/runtime-main.67f4421f.js.map",
-    "static/js/2.5e2ab5b8.chunk.js": "/thuringian-field-names/static/js/2.5e2ab5b8.chunk.js",
-    "static/js/2.5e2ab5b8.chunk.js.map": "/thuringian-field-names/static/js/2.5e2ab5b8.chunk.js.map",
-    "static/js/3.d94f225a.chunk.js": "/thuringian-field-names/static/js/3.d94f225a.chunk.js",
-    "static/js/3.d94f225a.chunk.js.map": "/thuringian-field-names/static/js/3.d94f225a.chunk.js.map",
+    "main.css": "/thuringian-field-names/static/css/main.faee926c.chunk.css",
+    "main.js": "/thuringian-field-names/static/js/main.7ab10f35.chunk.js",
+    "main.js.map": "/thuringian-field-names/static/js/main.7ab10f35.chunk.js.map",
+    "runtime-main.js": "/thuringian-field-names/static/js/runtime-main.9973e5ab.js",
+    "runtime-main.js.map": "/thuringian-field-names/static/js/runtime-main.9973e5ab.js.map",
+    "static/js/2.6f422f99.chunk.js": "/thuringian-field-names/static/js/2.6f422f99.chunk.js",
+    "static/js/2.6f422f99.chunk.js.map": "/thuringian-field-names/static/js/2.6f422f99.chunk.js.map",
+    "static/js/3.e06a95d2.chunk.js": "/thuringian-field-names/static/js/3.e06a95d2.chunk.js",
+    "static/js/3.e06a95d2.chunk.js.map": "/thuringian-field-names/static/js/3.e06a95d2.chunk.js.map",
     "index.html": "/thuringian-field-names/index.html",
-    "static/css/main.33d5e7ea.chunk.css.map": "/thuringian-field-names/static/css/main.33d5e7ea.chunk.css.map",
-    "static/js/2.5e2ab5b8.chunk.js.LICENSE.txt": "/thuringian-field-names/static/js/2.5e2ab5b8.chunk.js.LICENSE.txt"
+    "static/css/main.faee926c.chunk.css.map": "/thuringian-field-names/static/css/main.faee926c.chunk.css.map",
+    "static/js/2.6f422f99.chunk.js.LICENSE.txt": "/thuringian-field-names/static/js/2.6f422f99.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.67f4421f.js",
-    "static/js/2.5e2ab5b8.chunk.js",
-    "static/css/main.33d5e7ea.chunk.css",
-    "static/js/main.fa1a20fc.chunk.js"
+    "static/js/runtime-main.9973e5ab.js",
+    "static/js/2.6f422f99.chunk.js",
+    "static/css/main.faee926c.chunk.css",
+    "static/js/main.7ab10f35.chunk.js"
   ]
 }
