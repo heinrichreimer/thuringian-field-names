@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/thuringian-field-names/static/css/main.20ecf3ef.chunk.css",
-    "main.js": "/thuringian-field-names/static/js/main.bcfb78ac.chunk.js",
-    "main.js.map": "/thuringian-field-names/static/js/main.bcfb78ac.chunk.js.map",
+    "main.js": "/thuringian-field-names/static/js/main.bc454f46.chunk.js",
+    "main.js.map": "/thuringian-field-names/static/js/main.bc454f46.chunk.js.map",
     "runtime-main.js": "/thuringian-field-names/static/js/runtime-main.f74c70db.js",
     "runtime-main.js.map": "/thuringian-field-names/static/js/runtime-main.f74c70db.js.map",
-    "static/js/2.e7931a0a.chunk.js": "/thuringian-field-names/static/js/2.e7931a0a.chunk.js",
-    "static/js/2.e7931a0a.chunk.js.map": "/thuringian-field-names/static/js/2.e7931a0a.chunk.js.map",
+    "static/js/2.fcb09c76.chunk.js": "/thuringian-field-names/static/js/2.fcb09c76.chunk.js",
+    "static/js/2.fcb09c76.chunk.js.map": "/thuringian-field-names/static/js/2.fcb09c76.chunk.js.map",
     "static/js/3.fb218f68.chunk.js": "/thuringian-field-names/static/js/3.fb218f68.chunk.js",
     "static/js/3.fb218f68.chunk.js.map": "/thuringian-field-names/static/js/3.fb218f68.chunk.js.map",
     "index.html": "/thuringian-field-names/index.html",
     "static/css/main.20ecf3ef.chunk.css.map": "/thuringian-field-names/static/css/main.20ecf3ef.chunk.css.map",
-    "static/js/2.e7931a0a.chunk.js.LICENSE.txt": "/thuringian-field-names/static/js/2.e7931a0a.chunk.js.LICENSE.txt"
+    "static/js/2.fcb09c76.chunk.js.LICENSE.txt": "/thuringian-field-names/static/js/2.fcb09c76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.f74c70db.js",
-    "static/js/2.e7931a0a.chunk.js",
+    "static/js/2.fcb09c76.chunk.js",
     "static/css/main.20ecf3ef.chunk.css",
-    "static/js/main.bcfb78ac.chunk.js"
+    "static/js/main.bc454f46.chunk.js"
   ]
 }
