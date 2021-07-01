@@ -65,19 +65,19 @@ jobs:
           start: yarn start
           wait-on: "http://localhost:3000"
       - name: "📤 Upload Cypress sceenshots"
-        uses: actions/upload-artifact@v2.2.2
+        uses: actions/upload-artifact@v2.2.4
         if: failure()
         with:
           name: Cypress sceenshots
           path: cypress/screenshots
       - name: "📤 Upload Cypress videos"
-        uses: actions/upload-artifact@v2.2.2
+        uses: actions/upload-artifact@v2.2.4
         if: always()
         with:
           name: Cypress videos
           path: cypress/videos
       - name: "📤 Upload test coverage"
-        uses: actions/upload-artifact@v2.2.2
+        uses: actions/upload-artifact@v2.2.4
         with:
           path: coverage/
           name: Test coverage
