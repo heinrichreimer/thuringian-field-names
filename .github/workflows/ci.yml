@@ -15,7 +15,7 @@ jobs:
       - name: "📥 Check-out"
         uses: actions/checkout@v2
       - name: "🧰 Install Node.js"
-        uses: actions/setup-node@v2.1.5
+        uses: actions/setup-node@v2.3.0
         with:
           node-version: ${{ matrix.node }}
       - name: "♻️ Cache dependencies"
@@ -45,7 +45,7 @@ jobs:
       - name: "📥 Check-out"
         uses: actions/checkout@v2
       - name: "🧰 Install Node.js"
-        uses: actions/setup-node@v2.1.5
+        uses: actions/setup-node@v2.3.0
         with:
           node-version: ${{ matrix.node }}
       - name: "♻️ Cache dependencies"
