@@ -2192,10 +2192,10 @@
   resolved "https://registry.yarnpkg.com/@react-leaflet/core/-/core-1.1.1.tgz#827fd05bb542cf874116176d8ef48d5b12163f81"
   integrity sha512-7PGLWa9MZ5x/cWy8EH2VzI4T8q5WpuHbixzCDXqixP/WyqwIrg5NDUPgYuFnB4IEIZF+6nA265mYzswFo/h1Pw==
 
-"@reduxjs/toolkit@^2.2.6":
-  version "2.2.6"
-  resolved "https://registry.yarnpkg.com/@reduxjs/toolkit/-/toolkit-2.2.6.tgz#4a8356dad9d0c1ab255607a555d492168e0e3bc1"
-  integrity sha512-kH0r495c5z1t0g796eDQAkYbEQ3a1OLYN9o8jQQVZyKyw367pfRGS+qZLkHYvFHiUUdafpoSlQ2QYObIApjPWA==
+"@reduxjs/toolkit@^2.2.7":
+  version "2.2.7"
+  resolved "https://registry.yarnpkg.com/@reduxjs/toolkit/-/toolkit-2.2.7.tgz#199e3d10ccb39267cb5aee92c0262fd9da7fdfb2"
+  integrity sha512-faI3cZbSdFb8yv9dhDTmGwclW0vk0z5o1cia+kf7gCbaCwHI5e+7tP57mJUv22pNcNbeA62GSrPpfrUfdXcQ6g==
   dependencies:
     immer "^10.0.3"
     redux "^5.0.1"
