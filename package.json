@@ -20,7 +20,7 @@
     "@formatjs/intl-datetimeformat": "^6.12.5",
     "@formatjs/intl-displaynames": "^6.6.8",
     "@formatjs/intl-relativetimeformat": "^11.2.14",
-    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
     "@fortawesome/free-regular-svg-icons": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^5.15.2",
     "@fortawesome/react-fontawesome": "^0.2.2",
